@@ -15,7 +15,7 @@ For the expected functionalities of contacts concept of local storage has been i
 The App. can add, remove and edit a contact. A list of added contacts will be visible too
 
 How to use:
-To execute the App. launch the .html file on Chrome or IE.
+To execute the App. launch the .html file on Chrome(Currently tested on chrome ONLY).
 This will open the application, where the user has to first Add contact person details, (please note the format in which the information is passed).
 All the added contact details can be seen at the bottom of the page.
 Once added this can be then further Edited or Removed.
